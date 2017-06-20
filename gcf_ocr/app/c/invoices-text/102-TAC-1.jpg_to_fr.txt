@@ -1,0 +1,50 @@
+FACTURE D'ACHAT
+DE
+FACTURER
+[Lotion Company]
+[TAC
+[TAC l
+Compagnie
+Osaka, ZIP: 142-0005
+Téléphone: [080-003-0005
+[Nagoya]
+[Quan 1, TP HCM]
+Fax: 004-004-0004]
+Site web: sonini.co.jp
+[Phone: 03-4227-888]
+QTÉ
+LA DESCRIPTION
+1 [Tissu
+000
+Calenda
+000
+Produit XYZ
+TERMES ET CONDITIONS
+Le paiement est dû dans les 15 jours
+ENVOYEZ À
+FACTURE D'ACHAT
+102
+DATE DE FACTURE
+04/06/2017
+ITAC
+DATE D'ÉCHÉANCE
+Société ITAC
+19/06/2017
+[Nagoya]
+[Quan 1, TP HCM]
+[Téléphone: 03-4227-888]
+PRIX UNITAIRE
+MONTANT
+150 000 000
+150 000 000
+45 000 000
+45 000 000
+15 000
+15 000
+195 015 000
+Total
+12 187 500
+Taux d'imposition 6,25%
+TOTAL
+* 207 202 500
+Je vous remercie

@@ -1,0 +1,7 @@
+{
+  "RESULT_TOPIC": "OCR_RESULT",
+  "RESULT_BUCKET": "invoices-text",
+  "TRANSLATE_TOPIC": "invoices-text",
+  "TRANSLATE": true,
+  "TO_LANG": ["en", "fr", "es", "ja", "ru"]
+}
