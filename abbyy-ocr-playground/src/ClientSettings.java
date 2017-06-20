@@ -7,9 +7,9 @@ import java.net.*;
  */
 public class ClientSettings {
 	// Name of application you created
-	public static final String APPLICATION_ID = "";
+	public static final String APPLICATION_ID = "invoices-ocr";
 	// Password should be sent to your e-mail after application was created
-	public static final String PASSWORD = "";
+	public static final String PASSWORD = "9PXGZ7aWlCFKwLEuMu/IzSYa";
 	
 	public static void setupProxy()
 	{
