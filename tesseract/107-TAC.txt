@@ -1,0 +1,31 @@
+INVOICE
+
+Invoice Date: 04/06/2017
+
+ 
+
+INVOICE # 107 Descriplion Amount
+
+[ORF'A Company] XYZ product (10) 150,000,000
+[Osaka ZlP:142-0005]
+Phone: [080-003-0005]
+Fax: [004-004-0004]
+Website: sonini.coljp
+
+Subtolal 150,000.000
+Bill To
+[TAC] Tax rate 6.25% 9,375,000
+[TAC Company]
+
+[Nagoya] Total ¥159,375,000
+
+[Ha Noi, Viet Nam]
+[Phone: 034227-555]
+
+ 
+
+Terms & Condikions
+
+1‘ Total payment due in 30 days
+2‘ Please include the invoice number on your check
+
