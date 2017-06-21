@@ -1,0 +1,47 @@
+
+****** Result for Image/Page 1 ******
+INVOICE 
+FROM 
+[Lotion Company] 
+[Osaka, ZIP:142-0005] 
+Phone: [080-003-0005] 
+Fax: [004-004-0004] 
+Website: sonini.co.jp 
+BILL TO 
+[TACI 
+[TAC Company] 
+[Nagoya] 
+[Quan 1, TP I-ICM] 
+[Phone: 03-4227-888] 
+DESCRIPTION 
+SHIP TO 
+[TACI 
+[TAC Company] 
+[Nagoya] 
+[Quan 1, TP I-ICM] 
+[Phone: 03-4227-888] 
+INVOICE # 
+INVOICE DATE 
+DUE DATE 
+102 
+04/06/2017 
+19/06/2017 
+QTY 
+1 
+1 
+1 
+[Tissue] (1000) 
+[Calendar] (1000) 
+XYZ product 
+UNIT PRICE 
+15,000 
+Subtotal 
+Tax rate 6.25% 
+TOTAL 
+AMOUNT 
+15,000 
+12, 187 ,500 
+OhanL you! 
+TERMS & CONDITIONS 
+Payment is due within 15 days 
+
