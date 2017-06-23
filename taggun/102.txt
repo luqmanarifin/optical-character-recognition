@@ -1,0 +1,309 @@
+{
+  "location": {
+    "city": {
+      "geoname_id": 1850147,
+      "names": {
+        "de": "Tokyo",
+        "en": "Tokyo",
+        "es": "Tokio",
+        "fr": "Tokyo",
+        "ja": "東京",
+        "pt-BR": "Tóquio",
+        "ru": "Токио",
+        "zh-CN": "东京"
+      }
+    },
+    "continent": {
+      "code": "AS",
+      "geoname_id": 6255147,
+      "names": {
+        "de": "Asien",
+        "en": "Asia",
+        "es": "Asia",
+        "fr": "Asie",
+        "ja": "アジア",
+        "pt-BR": "Ásia",
+        "ru": "Азия",
+        "zh-CN": "亚洲"
+      }
+    },
+    "country": {
+      "geoname_id": 1861060,
+      "iso_code": "JP",
+      "names": {
+        "de": "Japan",
+        "en": "Japan",
+        "es": "Japón",
+        "fr": "Japon",
+        "ja": "日本",
+        "pt-BR": "Japão",
+        "ru": "Япония",
+        "zh-CN": "日本"
+      }
+    },
+    "location": {
+      "accuracy_radius": 5,
+      "latitude": 35.6502,
+      "longitude": 139.6939,
+      "time_zone": "Asia/Tokyo"
+    },
+    "postal": {
+      "code": "153-0042"
+    },
+    "registered_country": {
+      "geoname_id": 1861060,
+      "iso_code": "JP",
+      "names": {
+        "de": "Japan",
+        "en": "Japan",
+        "es": "Japón",
+        "fr": "Japon",
+        "ja": "日本",
+        "pt-BR": "Japão",
+        "ru": "Япония",
+        "zh-CN": "日本"
+      }
+    },
+    "subdivisions": [
+      {
+        "geoname_id": 1850144,
+        "iso_code": "13",
+        "names": {
+          "en": "Tokyo",
+          "fr": "Préfecture de Tokyo",
+          "ja": "東京都"
+        }
+      }
+    ]
+  },
+  "totalAmount": {
+    "confidenceLevel": 0
+  },
+  "taxAmount": {
+    "confidenceLevel": 0
+  },
+  "amounts": [],
+  "numbers": [
+    {
+      "data": 1,
+      "text": "1 [Tissue",
+      "index": 16,
+      "regions": [
+        [
+          {
+            "x": 182,
+            "y": 855
+          },
+          {
+            "x": 192,
+            "y": 855
+          },
+          {
+            "x": 192,
+            "y": 884
+          },
+          {
+            "x": 182,
+            "y": 884
+          }
+        ],
+        [
+          {
+            "x": 272,
+            "y": 861
+          },
+          {
+            "x": 343,
+            "y": 861
+          },
+          {
+            "x": 343,
+            "y": 883
+          },
+          {
+            "x": 272,
+            "y": 883
+          }
+        ]
+      ]
+    },
+    {
+      "data": 15,
+      "text": "Payment is due within 15 days",
+      "index": 22,
+      "regions": [
+        [
+          {
+            "x": 124,
+            "y": 1998
+          },
+          {
+            "x": 213,
+            "y": 1998
+          },
+          {
+            "x": 213,
+            "y": 2024
+          },
+          {
+            "x": 124,
+            "y": 2024
+          }
+        ],
+        [
+          {
+            "x": 219,
+            "y": 1998
+          },
+          {
+            "x": 233,
+            "y": 1998
+          },
+          {
+            "x": 233,
+            "y": 2024
+          },
+          {
+            "x": 219,
+            "y": 2024
+          }
+        ],
+        [
+          {
+            "x": 242,
+            "y": 1998
+          },
+          {
+            "x": 276,
+            "y": 1998
+          },
+          {
+            "x": 276,
+            "y": 2024
+          },
+          {
+            "x": 242,
+            "y": 2024
+          }
+        ],
+        [
+          {
+            "x": 285,
+            "y": 1998
+          },
+          {
+            "x": 339,
+            "y": 1998
+          },
+          {
+            "x": 339,
+            "y": 2024
+          },
+          {
+            "x": 285,
+            "y": 2024
+          }
+        ],
+        [
+          {
+            "x": 348,
+            "y": 1998
+          },
+          {
+            "x": 373,
+            "y": 1998
+          },
+          {
+            "x": 373,
+            "y": 2024
+          },
+          {
+            "x": 348,
+            "y": 2024
+          }
+        ],
+        [
+          {
+            "x": 378,
+            "y": 1998
+          },
+          {
+            "x": 427,
+            "y": 1998
+          },
+          {
+            "x": 427,
+            "y": 2024
+          },
+          {
+            "x": 378,
+            "y": 2024
+          }
+        ]
+      ]
+    },
+    {
+      "data": 102,
+      "text": "102",
+      "index": 25,
+      "regions": [
+        [
+          {
+            "x": 1484,
+            "y": 465
+          },
+          {
+            "x": 1519,
+            "y": 468
+          },
+          {
+            "x": 1517,
+            "y": 488
+          },
+          {
+            "x": 1482,
+            "y": 485
+          }
+        ]
+      ]
+    }
+  ],
+  "lineAmounts": [],
+  "confidenceLevel": 0.26249999999999996,
+  "date": {
+    "data": "2017-06-04T12:00:00.000Z",
+    "text": "04/06/2017",
+    "regions": [
+      [
+        {
+          "x": 1405,
+          "y": 513
+        },
+        {
+          "x": 1515,
+          "y": 513
+        },
+        {
+          "x": 1515,
+          "y": 538
+        },
+        {
+          "x": 1405,
+          "y": 538
+        }
+      ]
+    ],
+    "index": 27,
+    "confidenceLevel": 0.75
+  },
+  "merchantName": {
+    "confidenceLevel": 0
+  },
+  "merchantAddress": {
+    "confidenceLevel": 0
+  },
+  "merchantTypes": {
+    "confidenceLevel": 0
+  },
+  "elapsed": 5246.177202999592
+}
